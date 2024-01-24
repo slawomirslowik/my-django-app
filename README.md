@@ -1,7 +1,10 @@
 # my-django-app
 My first python django application
 
-1. Create folder locally
+1. Create folder locally with your app name <my-first-django-app>
+   Add Python and Django linter to VS Code: 
+   VS Code > Extensions > Install (Python by Microsoft, Django by Baptiste Darthenay)
+
 2. Open git bash in this folder
 3. git init - initialize repozitory locally
 4. Create new public repo on github, adding README and .gitignore template - python
